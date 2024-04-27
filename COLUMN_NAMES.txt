@@ -1,97 +1,97 @@
-Index
-Bankrupt?
- ROA(C) before interest and depreciation before interest
- ROA(A) before interest and % after tax
- ROA(B) before interest and depreciation after tax
- Operating Gross Margin
- Realized Sales Gross Margin
- Operating Profit Rate
- Pre-tax net Interest Rate
- After-tax net Interest Rate
- Non-industry income and expenditure/revenue
- Continuous interest rate (after tax)
- Operating Expense Rate
- Research and development expense rate
- Cash flow rate
- Interest-bearing debt interest rate
- Tax rate (A)
- Net Value Per Share (B)
- Net Value Per Share (A)
- Net Value Per Share (C)
- Persistent EPS in the Last Four Seasons
- Cash Flow Per Share
- Revenue Per Share (Yuan ¥)
- Operating Profit Per Share (Yuan ¥)
- Per Share Net profit before tax (Yuan ¥)
- Realized Sales Gross Profit Growth Rate
- Operating Profit Growth Rate
- After-tax Net Profit Growth Rate
- Regular Net Profit Growth Rate
- Continuous Net Profit Growth Rate
- Total Asset Growth Rate
- Net Value Growth Rate
- Total Asset Return Growth Rate Ratio
- Cash Reinvestment %
- Current Ratio
- Quick Ratio
- Interest Expense Ratio
- Total debt/Total net worth
- Debt ratio %
- Net worth/Assets
- Long-term fund suitability ratio (A)
- Borrowing dependency
- Contingent liabilities/Net worth
- Operating profit/Paid-in capital
- Net profit before tax/Paid-in capital
- Inventory and accounts receivable/Net value
- Total Asset Turnover
- Accounts Receivable Turnover
- Average Collection Days
- Inventory Turnover Rate (times)
- Fixed Assets Turnover Frequency
- Net Worth Turnover Rate (times)
- Revenue per person
- Operating profit per person
- Allocation rate per person
- Working Capital to Total Assets
- Quick Assets/Total Assets
- Current Assets/Total Assets
- Cash/Total Assets
- Quick Assets/Current Liability
- Cash/Current Liability
- Current Liability to Assets
- Operating Funds to Liability
- Inventory/Working Capital
- Inventory/Current Liability
- Current Liabilities/Liability
- Working Capital/Equity
- Current Liabilities/Equity
- Long-term Liability to Current Assets
- Retained Earnings to Total Assets
- Total income/Total expense
- Total expense/Assets
- Current Asset Turnover Rate
- Quick Asset Turnover Rate
- Working capitcal Turnover Rate
- Cash Turnover Rate
- Cash Flow to Sales
- Fixed Assets to Assets
- Current Liability to Liability
- Current Liability to Equity
- Equity to Long-term Liability
- Cash Flow to Total Assets
- Cash Flow to Liability
- CFO to Assets
- Cash Flow to Equity
- Current Liability to Current Assets
- Liability-Assets Flag
- Net Income to Total Assets
- Total assets to GNP price
- No-credit Interval
- Gross Profit to Sales
- Net Income to Stockholder's Equity
- Liability to Equity
- Degree of Financial Leverage (DFL)
- Interest Coverage Ratio (Interest expense to EBIT)
- Net Income Flag
- Equity to Liability
+Index			int64
+Bankrupt?			int64
+ROA(C) before interest and depreciation before interest			float64
+ROA(A) before interest and % after tax			float64
+ROA(B) before interest and depreciation after tax			float64
+Operating Gross Margin			float64
+Realized Sales Gross Margin			float64
+Operating Profit Rate			float64
+Pre-tax net Interest Rate			float64
+After-tax net Interest Rate			float64
+Non-industry income and expenditure/revenue			float64
+Continuous interest rate (after tax)			float64
+Operating Expense Rate			float64
+Research and development expense rate			float64
+Cash flow rate			float64
+Interest-bearing debt interest rate			float64
+Tax rate (A)			float64
+Net Value Per Share (B)			float64
+Net Value Per Share (A)			float64
+Net Value Per Share (C)			float64
+Persistent EPS in the Last Four Seasons			float64
+Cash Flow Per Share			float64
+Revenue Per Share (Yuan ¥)			float64
+Operating Profit Per Share (Yuan ¥)			float64
+Per Share Net profit before tax (Yuan ¥)			float64
+Realized Sales Gross Profit Growth Rate			float64
+Operating Profit Growth Rate			float64
+After-tax Net Profit Growth Rate			float64
+Regular Net Profit Growth Rate			float64
+Continuous Net Profit Growth Rate			float64
+Total Asset Growth Rate			float64
+Net Value Growth Rate			float64
+Total Asset Return Growth Rate Ratio			float64
+Cash Reinvestment %			float64
+Current Ratio			float64
+Quick Ratio			float64
+Interest Expense Ratio			float64
+Total debt/Total net worth			float64
+Debt ratio %			float64
+Net worth/Assets			float64
+Long-term fund suitability ratio (A)			float64
+Borrowing dependency			float64
+Contingent liabilities/Net worth			float64
+Operating profit/Paid-in capital			float64
+Net profit before tax/Paid-in capital			float64
+Inventory and accounts receivable/Net value			float64
+Total Asset Turnover			float64
+Accounts Receivable Turnover			float64
+Average Collection Days			float64
+Inventory Turnover Rate (times)			float64
+Fixed Assets Turnover Frequency			float64
+Net Worth Turnover Rate (times)			float64
+Revenue per person			float64
+Operating profit per person			float64
+Allocation rate per person			float64
+Working Capital to Total Assets			float64
+Quick Assets/Total Assets			float64
+Current Assets/Total Assets			float64
+Cash/Total Assets			float64
+Quick Assets/Current Liability			float64
+Cash/Current Liability			float64
+Current Liability to Assets			float64
+Operating Funds to Liability			float64
+Inventory/Working Capital			float64
+Inventory/Current Liability			float64
+Current Liabilities/Liability			float64
+Working Capital/Equity			float64
+Current Liabilities/Equity			float64
+Long-term Liability to Current Assets			float64
+Retained Earnings to Total Assets			float64
+Total income/Total expense			float64
+Total expense/Assets			float64
+Current Asset Turnover Rate			float64
+Quick Asset Turnover Rate			float64
+Working capitcal Turnover Rate			float64
+Cash Turnover Rate			float64
+Cash Flow to Sales			float64
+Fixed Assets to Assets			float64
+Current Liability to Liability			float64
+Current Liability to Equity			float64
+Equity to Long-term Liability			float64
+Cash Flow to Total Assets			float64
+Cash Flow to Liability			float64
+CFO to Assets			float64
+Cash Flow to Equity			float64
+Current Liability to Current Assets			float64
+Liability-Assets Flag			int64
+Net Income to Total Assets			float64
+Total assets to GNP price			float64
+No-credit Interval			float64
+Gross Profit to Sales			float64
+Net Income to Stockholder's Equity			float64
+Liability to Equity			float64
+Degree of Financial Leverage (DFL)			float64
+Interest Coverage Ratio (Interest expense to EBIT)			float64
+Net Income Flag			int64
+Equity to Liability			float64
