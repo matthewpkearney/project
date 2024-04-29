@@ -1,0 +1,33 @@
+Operating Expense Rate
+Research and development expense rate
+Revenue Per Share (Yuan ¥)
+Realized Sales Gross Profit Growth Rate
+Total Asset Growth Rate
+Contingent liabilities/Net worth
+Inventory and accounts receivable/Net value
+Total Asset Turnover
+Accounts Receivable Turnover
+Average Collection Days
+Inventory Turnover Rate (times)
+Fixed Assets Turnover Frequency
+Net Worth Turnover Rate (times)
+Revenue per person
+Allocation rate per person
+Quick Assets/Total Assets
+Current Assets/Total Assets
+Inventory/Working Capital
+Inventory/Current Liability
+Current Liabilities/Liability
+Long-term Liability to Current Assets
+Total expense/Assets
+Current Asset Turnover Rate
+Quick Asset Turnover Rate
+Cash Turnover Rate
+Cash Flow to Sales
+Fixed Assets to Assets
+Current Liability to Liability
+Cash Flow to Total Assets
+Cash Flow to Liability
+Cash Flow to Equity
+Total assets to GNP price
+Net Income Flag
